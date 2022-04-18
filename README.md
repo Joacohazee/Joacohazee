@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Joaco Hazelhoff
+```
 
+```
 <!--
 **Joacohazee/Joacohazee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

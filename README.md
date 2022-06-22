@@ -1,4 +1,4 @@
-Hi 👋 My name is Joaquin Hazelgoff
+Hi 👋 My name is Joaquin Hazelhoff
 ==================================
 
 Full Stack Developer
